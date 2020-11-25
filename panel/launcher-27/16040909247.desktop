@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=faraday IDE start
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "faraday"
+Icon=kali-python-faraday
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-reporting;
+X-Kali-Package=faraday
+X-XFCE-Source=file:///usr/share/applications/kali-faraday.desktop

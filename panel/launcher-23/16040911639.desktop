@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=NASM shell
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "cd /usr/share/metasploit-framework/tools/exploit && ./nasm_shell.rb"
+Icon=kali-metasploit-framework
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=07-reverseengineer;
+X-Kali-Package=metasploit-framework
+X-XFCE-Source=file:///usr/share/applications/kali-nasmshell.desktop
