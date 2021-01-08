@@ -1,11 +1,15 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[Trash]
-row=0
-col=0
+[/home/kali/Desktop/restart-vm-tools.sh]
+row=2
+col=17
 
-[/home/kali]
+[/home/kali/Desktop/mount-shared-folders.sh]
 row=1
-col=0
+col=17
+
+[/home/kali/Desktop/workspaces]
+row=0
+col=17
 

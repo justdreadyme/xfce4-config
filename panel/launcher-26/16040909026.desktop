@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=wireshark
 Encoding=UTF-8
-Exec=pkexec wireshark
+Exec=/usr/share/kali-menu/exec-in-shell "pkexec wireshark"
 Icon=kali-wireshark
 StartupNotify=false
 Terminal=false
@@ -9,3 +9,5 @@ Type=Application
 Categories=09-sniffing-spoofing;
 X-Kali-Package=wireshark
 X-XFCE-Source=file:///usr/share/applications/wireshark.desktop
+Comment=
+Path=

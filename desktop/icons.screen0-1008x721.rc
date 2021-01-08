@@ -2,14 +2,22 @@
 4.10.3+=true
 
 [/home/kali/Desktop/restart-vm-tools.sh]
-row=2
-col=17
+row=1
+col=0
 
 [/home/kali/Desktop/mount-shared-folders.sh]
-row=1
-col=17
+row=0
+col=8
 
 [/home/kali/Desktop/workspaces]
+row=1
+col=8
+
+[Trash]
 row=0
-col=17
+col=0
+
+[/home/kali]
+row=2
+col=0
 

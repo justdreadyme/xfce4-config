@@ -6,7 +6,7 @@
       <property name="&lt;Alt&gt;F1" type="empty"/>
       <property name="&lt;Alt&gt;F2" type="empty"/>
       <property name="&lt;Alt&gt;F3" type="empty"/>
-      <property name="&lt;Primary&gt;Escape" type="empty"/>
+      <property name="Super_L" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="empty"/>
@@ -14,7 +14,6 @@
       <property name="&lt;Super&gt;p" type="empty"/>
       <property name="override" type="empty"/>
       <property name="Print" type="empty"/>
-      <property name="&lt;Super&gt;Print" type="empty"/>
       <property name="&lt;Primary&gt;Print" type="empty"/>
       <property name="&lt;Shift&gt;Print" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="empty"/>
@@ -23,6 +22,8 @@
       <property name="XF86Display" type="empty"/>
       <property name="XF86Mail" type="empty"/>
       <property name="XF86WWW" type="empty"/>
+      <property name="&lt;Super&gt;Print" type="empty"/>
+      <property name="&lt;Primary&gt;Escape" type="empty"/>
     </property>
     <property name="custom" type="empty">
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xflock4"/>
@@ -45,6 +46,7 @@
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Print" type="string" value="xfce4-screenshooter --window --clipboard"/>
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
+      <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
