@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=gvm feed update
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo gvm-feed-update"
+Icon=kali-openvas
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-13-gvm-service;02-08-gvm;
+X-Kali-Package=gvm
+X-XFCE-Source=file:///usr/share/applications/kali-gvm-feed-update.desktop
+Comment=
+Path=
